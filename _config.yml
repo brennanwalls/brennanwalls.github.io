@@ -1,7 +1,7 @@
 # Site settings
-title_left    : "Brennan"
-title_right   : "Walls" # default: ""
-description   : "Personal website and blog for Brennan Walls."
+title_left    : "BrennanWalls"
+title_right   : ".com" # default: ""
+description   : "An InfoSec Blog"
 keywords      : "IT, Information Security, InfoSec, Cyber Security, Cyber, Defense, Security"
 url           : https://brennanwalls.com # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank

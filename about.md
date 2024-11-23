@@ -40,13 +40,14 @@ I am an information security professional with a Network Security Administration
 - **Results:** Network-wide, versioned, on-site redudant backups with encrypted and immutable off-site disaster recovery hosted by AWS.
 
 # Certifications
+- Cloud Practitioner, AWS, May 2024
 - A+, CompTIA, June 2024
 - Network+, CompTIA, November 2024
-- Security+, CompTIA, *est December 2024*
+- Security+, CompTIA, *December 2024*
 
 # Education
-- Network Security Administration A.A.S., Oakton College, May 2023
-- Cybersecurity B.S., Western Governors University, *est 2025*
+- Network Security Administration A.A.S., Oakton College, 2023
+- Cybersecurity B.S., Western Governors University, *2025*
 
 # Skills
 - Linux, Windows Server, and MacOS power user.

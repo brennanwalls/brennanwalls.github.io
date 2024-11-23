@@ -1,13 +1,13 @@
 # Site settings
-title_left    : "BrennanWalls"
-title_right   : ".com" # default: ""
+title_left    : "Brennan"
+title_right   : " Walls" # default: ""
 description   : "An InfoSec Blog"
 keywords      : "IT, Information Security, InfoSec, Cyber Security, Cyber, Defense, Security"
 url           : https://brennanwalls.com # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
-google_analytics  : UA-XXXXX-XX
+google_analytics  : G-DL2TVXGTFC
 twitter_username  : ""
 comments_enabled  : false # if enabled (set to true), please provide your disqus_username
 disqus_shortname  : ""

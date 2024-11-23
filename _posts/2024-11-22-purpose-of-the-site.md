@@ -10,4 +10,4 @@ Hello! Thank you for taking the time to visit my website. This will function as 
 
 Ideally, this will result in me having lots of articles about my schooling that I can look back on as I venture further into the field! Typing things out has always helped my memory recall, and I'm not a stranger to markdown so here's to giving this the old college try.
 
-Have a great day and I'll write soon!
+Have a great day, I'll write soon.

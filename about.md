@@ -4,16 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Brennan Walls
-Contact Information
-Email: contact@brennanwalls.com
-LinkedIn: BrennanWalls
+# Contact Information
+- Email: [mailto:contact@brennanwalls.com](contact@brennanwalls.com)
+- LinkedIn: [https://linkedin.com/in/brennanwalls](BrennanWalls)
+- Bluesky: [https://bsky.app/profile/brennanwalls.com](@brennanwalls.com)
 
 ---
 
 # Summary
 
-I am an information security professional with a Network Security Administration degree and a Security+ certification. I became interested in computer networking out of necessity during my childhood because I would host weekend-long LAN parties, but it wasn’t until I came across podcasts like ‘Darknet Diaries’ and shows like ‘Mr. Robot’ that I discovered my passion for cybersecurity. This led me to go back to school and begin a new career. Now I have almost 3 years of experience as a system administrator as well as a decade previously in sales. I possess a diverse skill set that includes expertise in network infrastructure, disaster recovery planning, and technical support. I am committed to using my knowledge and skills to contribute to a challenging and rewarding position in the field of information security.
+I am an information security professional with a Network Security Administration degree and multiple CompTIA certificates. I became interested in computers as the result of hosting weekend-long LAN parties and eventually TV shows like ‘Mr. Robot’ led me to discover my passion for cybersecurity. During COVID I went back to school and began a new career. Now I have almost 4 years of experience as a system administrator as well as a decade previously in sales. I possess a diverse skill set that includes expertise in network infrastructure, disaster recovery planning, and technical support. I am committed to using my knowledge and skills to contribute to a challenging and rewarding position in the field of information security.
 
 # Work Experience
 

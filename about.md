@@ -16,7 +16,7 @@ I am an information security professional with a Network Security Administration
 
 # Work Experience
 
-#### System Administrator, Polytech Industries, 2021-2023
+#### System Administrator, Polytech Industries, 2021-Current
 - Manage all aspects of the company’s IT systems, including servers, networks, workstations, and software.
 - Implement and maintain security measures to protect the company’s data and networks.
 - Provide technical support to employees and resolve issues in a timely manner.

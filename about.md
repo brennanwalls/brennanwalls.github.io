@@ -12,7 +12,7 @@ permalink: /about/
 
 # Summary
 
-I am an information security professional with a Network Security Administration degree and multiple certificates. I am currently completeing my Bachelors in Cybersecurity at WGU. I have almost 4 years of experience as a system administrator as well as a decade spent previously in sales. I possess a diverse skill set that includes expertise in network infrastructure, disaster recovery planning, and technical support. I am committed to using my knowledge and skills to contribute to a challenging and rewarding position in the field of information security.
+I am an information security professional with a Network Security Administration degree and multiple certificates. I am currently completing my Bachelor degree in Cybersecurity at WGU. I have almost 4 years of experience as a system administrator as well as a decade spent previously in sales. I possess a diverse skill set that includes expertise in network infrastructure, disaster recovery planning, and technical support. I am committed to using my knowledge and skills to contribute to a challenging and rewarding position in the field of information security.
 
 # Work Experience
 

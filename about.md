@@ -4,11 +4,12 @@ title: About
 permalink: /about/
 ---
 
-<img src="assets/images/author.jpg">
+<img src="../assets/images/author.jpg">
 
 - Email: [contact@brennanwalls.com](mailto:contact@brennanwalls.com)
 - LinkedIn: [BrennanWalls](https://linkedin.com/in/brennanwalls)
 - Bluesky: [@brennanwalls.com](https://bsky.app/profile/brennanwalls.com)
+
 ---
 
 ### I'm Brennan and I like FOSS.

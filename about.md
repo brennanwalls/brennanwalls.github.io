@@ -31,20 +31,20 @@ I live to travel and I am a transit nerd. I currently reverse commute from the c
 - Python/Java
 
 ### Work Experience
-- **Polytech Industries** System Administrator 2021-Current
-- **Micro Center** System Sales 2018-2020
-- **Guitar Center** Sr. Sales Consultant 2015-2018
-- **AT&T** Sales Consultant 2012-2015
-- **Menards** Sales Lead 2010-2012
+- **Polytech Industries** System Administrator *2021-Current*
+- **Micro Center** System Sales *2018-2020*
+- **Guitar Center** Sr. Sales Consultant *2015-2018*
+- **AT&T** Sales Consultant *2012-2015*
+- **Menards** Sales Lead *2010-2012*
 
 ### Certifications
-- Cloud Practitioner, AWS, May 2024
-- A+, CompTIA, June 2024
-- Network+, CompTIA, November 2024
-- Security+, CompTIA, *December 2024*
+- **Cloud Practitioner** AWS, *May 2024*
+- **A+** CompTIA *June 2024*
+- **Network+** CompTIA *November 2024*
+- **Security+** CompTIA *expected*
 
 ### Education
 - Network Security Administration A.A.S., Oakton College, 2022
-- Cybersecurity B.S., Western Governors University, *2025*
+- Cybersecurity B.S., Western Governors University, *expected*
 
 

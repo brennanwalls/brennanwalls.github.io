@@ -44,7 +44,7 @@ I live to travel and I am a transit nerd. I currently reverse commute from the c
 - **Security+** CompTIA *expected*
 
 ### Education
-- Network Security Administration A.A.S., Oakton College, 2022
-- Cybersecurity B.S., Western Governors University, *expected*
+- **Network Security Administration A.A.S.** Oakton College *2022*
+- **Cybersecurity B.S.** Western Governors University *expected*
 
 

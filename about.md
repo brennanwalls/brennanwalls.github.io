@@ -38,7 +38,7 @@ I live to travel and I am a transit nerd. I currently reverse commute from the c
 - **Menards** Sales Lead *2010-2012*
 
 ### Certifications
-- **Cloud Practitioner** AWS, *May 2024*
+- **Cloud Practitioner** AWS *May 2024*
 - **A+** CompTIA *June 2024*
 - **Network+** CompTIA *November 2024*
 - **Security+** CompTIA *expected*

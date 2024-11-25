@@ -13,7 +13,7 @@ permalink: /about/
 ---
 
 ### I'm Brennan and I like FOSS.
-In 2020 I moved to Chicago and got the idea to buy a decommisioned server, build a VM datacenter in my closet, and learn networking. Through that experience I became obsessed with `*`nix operating systems and the FOSS community as a whole. A lot of my time now is spent as the system administrator for my family's business, Polytech, while completing my Bachelor degree in Cybersecurity at WGU. I hope to take my experience and start working for a cloud-based team in the loop someday soon.
+In 2020 I moved to Chicago and got the idea to buy a decommisioned server, build a VM datacenter in my closet, and learn networking. Through that experience I became obsessed with `*`nix operating systems and the FOSS community as a whole. A lot of my time now is spent as the system administrator for my family's business, Polytech, while completing my Bachelor degree in Cybersecurity at WGU. I hope to take my experience and start working for a cloud-based team in [the loop](https://en.wikipedia.org/wiki/Chicago_Loop) someday soon.
 
 I live to travel and I am a transit nerd. I currently reverse commute from the city into the suburbs via the Metra - it makes me feel like a kid. I'm always looking for a new video game or book recommendation and I'm a sucker for minimalist, everyday-carry kit.
 

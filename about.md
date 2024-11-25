@@ -15,20 +15,26 @@ permalink: /about/
 ### I'm Brennan and I like FOSS.
 In 2020 I moved to Chicago and got the idea to buy a decommisioned server, build a data center in my closet, and learn networking. Through that experience I became obsessed with &#42;nix operating systems and the FOSS community as a whole. A lot of my time now is spent as the system administrator for my family's business, Polytech, while completing my Bachelor degree in Cybersecurity at WGU. I hope to take my experience and start working for a cloud-based team in the <a href="https://en.wikipedia.org/wiki/Chicago_Loop" target="_blank">Loop</a>.
 
-I live to travel and I am a transit nerd who loves to ride bikes. I currently reverse commute from the city into the suburbs via the <a href="https://en.wikipedia.org/wiki/Metra" target="_blank">Metra</a> - it makes me feel like a kid. I'm always looking for a new video game or book recommendation.
+I live to travel and I am a transit nerd who loves to ride bikes. I currently reverse commute from the city into the suburbs via the <a href="https://en.wikipedia.org/wiki/Metra" target="_blank">Metra</a> - it makes me feel like a kid. I like to practice my cyber skills with <a href="https://app.hackthebox.com/users/931380" target="_blank">HTB</a> and I'm always looking for a new video game or book recommendation for my off-time.
 
 ### Skills
-- Linux
-- Windows Server
-- Proxmox
-- Docker
 - Ansible
-- Network/Website Penetration
-- Documentation
+- AWS/Azure
 - Backup & Recovery Planning
-- Network Administration
 - Bash/Powershell
+- Customer-Facing Soft Skills
+- Docker
+- Documentation
+- Help Desk Administration
+- Incident Response
+- Linux
+- Network Design & Architecture
+- Network & Web App Penetration
+- Office 365 Administration
+- Physical Security Controls
+- Proxmox Enterprise
 - Python/Java
+- Windows Server
 
 ### Work Experience
 - **Polytech Industries** System Administrator *2021-Current*
